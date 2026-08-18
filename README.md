@@ -1,6 +1,12 @@
-# Estudo-React
+# Sobre o repositório
 
-Repositorio para estudar React
+Repositorio criado para estudar React na cadeira de Programação Front-end na Universidade Católica De Pernambuco
+
+# Tecnologias usadas
+
+- React
+- Next.js
+- Vercel
 
 # Links
 
